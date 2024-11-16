@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>Sbitany</name>
+  <classpath>C:\Oracle21c\WINDOWS.X64_193000_db_home\jdbc\lib\ojdbc8.jar</classpath>
+  <driver>oracle.jdbc.driver.OracleDriver</driver>
+  <username>c##woroud</username>
+  <password>123456</password>
+  <url>jdbc:oracle:thin:@localhost:1521:orcl</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
